@@ -1,0 +1,20 @@
+[
+  {
+    "sha": "f1586d108d1a937b5e3e49d455d92af69e036667",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-10T04:26:21.000Z",
+      "message": "Fizzbuzz - prueba 1",
+      "url": ""
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-04-10"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "job_conclusion": "success"
+  }
+]

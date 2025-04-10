@@ -70,5 +70,23 @@
     "coverage": 100,
     "test_count": 4,
     "job_conclusion": "success"
+  },
+  {
+    "sha": "5e7f617d3beab8e84dd81515b0b37a9e57af431e",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-10T04:29:54.000Z",
+      "message": "Actualizar commit-history.json antes del push",
+      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/5e7f617d3beab8e84dd81515b0b37a9e57af431e"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 21,
+      "deletions": 3,
+      "date": "2025-04-10"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "job_conclusion": "success"
   }
 ]

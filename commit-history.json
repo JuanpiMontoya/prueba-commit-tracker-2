@@ -34,5 +34,23 @@
     "coverage": 100,
     "test_count": 2,
     "job_conclusion": "success"
+  },
+  {
+    "sha": "878139baaad2ce1660d302c7d51d24d2f042323f",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-10T04:28:48.000Z",
+      "message": "Fizzbuzz - prueba 3",
+      "url": ""
+    },
+    "stats": {
+      "total": 24,
+      "additions": 24,
+      "deletions": 0,
+      "date": "2025-04-10"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "job_conclusion": "success"
   }
 ]

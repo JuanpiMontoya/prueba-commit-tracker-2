@@ -1,0 +1,19 @@
+[
+  {
+    "sha": "8518323f4d037d9b21f96b0b49828b4b72e9a77f",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-16T02:35:41.000Z",
+      "message": "Fizzbuzz - prueba 1",
+      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/8518323f4d037d9b21f96b0b49828b4b72e9a77f"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-04-16"
+    },
+    "coverage": 100,
+    "test_count": 1
+  }
+]

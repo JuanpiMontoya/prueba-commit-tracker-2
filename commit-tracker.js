@@ -155,7 +155,6 @@ try {
 
   // Obtener el SHA del commit actual
   const currentSha = execSync('git rev-parse HEAD').toString().trim();
-  console.log(`Procesando el commit actual: ${currentSha}`);
 
   // Determinar si es el primer commit
   const isFirstCommit = execSync('git rev-list --count HEAD').toString().trim() === '1';

@@ -15,5 +15,22 @@
     },
     "coverage": 100,
     "test_count": 1
+  },
+  {
+    "sha": "2e98e88c2d5c843c1d4d587fd66afe637d60099d",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-16T02:38:47.000Z",
+      "message": "Fizzbuzz - prueba 2",
+      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/2e98e88c2d5c843c1d4d587fd66afe637d60099d"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-04-16"
+    },
+    "coverage": 100,
+    "test_count": 2
   }
 ]

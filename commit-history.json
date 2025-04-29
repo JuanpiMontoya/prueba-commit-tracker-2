@@ -1,0 +1,20 @@
+[
+  {
+    "sha": "3a6400e877c39913757ba80b4ee33fcf6e241e4c",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-29T15:13:48.000Z",
+      "message": "Fizzbuzz - prueba coverage 1",
+      "url": ""
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-04-29"
+    },
+    "coverage": 62.5,
+    "test_count": 1,
+    "conclusion": "success"
+  }
+]

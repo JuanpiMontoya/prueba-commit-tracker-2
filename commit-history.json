@@ -5,7 +5,7 @@
     "commit": {
       "date": "2025-04-29T15:13:48.000Z",
       "message": "Fizzbuzz - prueba coverage 1",
-      "url": ""
+      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/3a6400e877c39913757ba80b4ee33fcf6e241e4c"
     },
     "stats": {
       "total": 0,
@@ -23,7 +23,7 @@
     "commit": {
       "date": "2025-04-29T15:14:14.000Z",
       "message": "Fizzbuzz - prueba coverage 2",
-      "url": ""
+      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/e36472bd739dc764d3b25ce79bc0f8723289a7e1"
     },
     "stats": {
       "total": 26,
@@ -33,6 +33,42 @@
     },
     "coverage": 75,
     "test_count": 2,
+    "conclusion": "success"
+  },
+  {
+    "sha": "9b1ddf7730e8c859fe72fdfc0829001ba4539851",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-29T15:14:27.000Z",
+      "message": "Fizzbuzz - prueba coverage 3",
+      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/9b1ddf7730e8c859fe72fdfc0829001ba4539851"
+    },
+    "stats": {
+      "total": 23,
+      "additions": 23,
+      "deletions": 0,
+      "date": "2025-04-29"
+    },
+    "coverage": 87.5,
+    "test_count": 3,
+    "conclusion": "success"
+  },
+  {
+    "sha": "98c5d32b57bfdacebda6f27f745076a4a3662833",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-29T15:14:39.000Z",
+      "message": "Fizzbuzz - prueba coverage 4",
+      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/98c5d32b57bfdacebda6f27f745076a4a3662833"
+    },
+    "stats": {
+      "total": 23,
+      "additions": 23,
+      "deletions": 0,
+      "date": "2025-04-29"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "conclusion": "success"
   }
 ]

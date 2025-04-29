@@ -16,5 +16,23 @@
     "coverage": 62.5,
     "test_count": 1,
     "conclusion": "success"
+  },
+  {
+    "sha": "e36472bd739dc764d3b25ce79bc0f8723289a7e1",
+    "author": "Juanpi",
+    "commit": {
+      "date": "2025-04-29T15:14:14.000Z",
+      "message": "Fizzbuzz - prueba coverage 2",
+      "url": ""
+    },
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0,
+      "date": "2025-04-29"
+    },
+    "coverage": 75,
+    "test_count": 2,
+    "conclusion": "success"
   }
 ]

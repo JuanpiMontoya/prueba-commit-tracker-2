@@ -1,74 +1,121 @@
 [
   {
-    "sha": "3a6400e877c39913757ba80b4ee33fcf6e241e4c",
-    "author": "Juanpi",
+    "sha": "79af2b0d6f0c973fe77e768137646d7670a70355",
+    "author": "Israel Antezana Rojas",
     "commit": {
-      "date": "2025-04-29T15:13:48.000Z",
-      "message": "Fizzbuzz - prueba coverage 1",
-      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/3a6400e877c39913757ba80b4ee33fcf6e241e4c"
+      "date": "2025-05-04T14:36:15.000Z",
+      "message": "Primera prueba",
+      "url": "https://github.com/israelantezana/fizzbuzz-commitlog20250404/commit/79af2b0d6f0c973fe77e768137646d7670a70355"
     },
     "stats": {
-      "total": 0,
+      "total": 12,
+      "additions": 7,
+      "deletions": 5,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 1
+  },
+  {
+    "sha": "eb794f9fce563c8021121897996befb51cd07dd8",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-05-04T15:04:41.000Z",
+      "message": "Cualquier numero que no cumple la regla",
+      "url": "https://github.com/israelantezana/fizzbuzz-commitlog20250404/commit/eb794f9fce563c8021121897996befb51cd07dd8"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 2
+  },
+  {
+    "sha": "1cd9f1df0d0b6c91cc125f2eb09297121387ae9e",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-05-04T15:27:17.000Z",
+      "message": "genera fizz para 3",
+      "url": "https://github.com/israelantezana/fizzbuzz-commitlog20250404/commit/1cd9f1df0d0b6c91cc125f2eb09297121387ae9e"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 3
+  },
+  {
+    "sha": "eaac43c8ec9557ed4a11181318b414e46219c84c",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-05-04T15:34:43.000Z",
+      "message": "commit de varios ciclos",
+      "url": "https://github.com/israelantezana/fizzbuzz-commitlog20250404/commit/eaac43c8ec9557ed4a11181318b414e46219c84c"
+    },
+    "stats": {
+      "total": 17,
+      "additions": 16,
+      "deletions": 1,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 6
+  },
+  {
+    "sha": "6bba09104b7777020e79474517b64c3ee6c7a903",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-05-04T15:36:00.000Z",
+      "message": "Commit ROJO",
+      "url": "https://github.com/israelantezana/fizzbuzz-commitlog20250404/commit/6bba09104b7777020e79474517b64c3ee6c7a903"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 0
+  },
+  {
+    "sha": "7db9362fbe3b0f19786ea3de155c76fd38abf94b",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-05-04T15:38:27.000Z",
+      "message": "push varios commits",
+      "url": "https://github.com/israelantezana/fizzbuzz-commitlog20250404/commit/7db9362fbe3b0f19786ea3de155c76fd38abf94b"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 1,
+      "deletions": 0,
+      "date": "2025-05-04"
+    },
+    "coverage": 0,
+    "test_count": 7
+  },
+  {
+    "sha": "7f25c278dd3fc55ba3b0efd1a33cf8abce0bf18a",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-05-04T15:44:36.000Z",
+      "message": "Refactoring, codigo muerto",
+      "url": "https://github.com/israelantezana/fizzbuzz-commitlog20250404/commit/7f25c278dd3fc55ba3b0efd1a33cf8abce0bf18a"
+    },
+    "stats": {
+      "total": 2,
       "additions": 0,
-      "deletions": 0,
-      "date": "2025-04-29"
+      "deletions": 2,
+      "date": "2025-05-04"
     },
-    "coverage": 62.5,
-    "test_count": 1,
-    "conclusion": "success"
-  },
-  {
-    "sha": "e36472bd739dc764d3b25ce79bc0f8723289a7e1",
-    "author": "Juanpi",
-    "commit": {
-      "date": "2025-04-29T15:14:14.000Z",
-      "message": "Fizzbuzz - prueba coverage 2",
-      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/e36472bd739dc764d3b25ce79bc0f8723289a7e1"
-    },
-    "stats": {
-      "total": 26,
-      "additions": 26,
-      "deletions": 0,
-      "date": "2025-04-29"
-    },
-    "coverage": 75,
-    "test_count": 2,
-    "conclusion": "success"
-  },
-  {
-    "sha": "9b1ddf7730e8c859fe72fdfc0829001ba4539851",
-    "author": "Juanpi",
-    "commit": {
-      "date": "2025-04-29T15:14:27.000Z",
-      "message": "Fizzbuzz - prueba coverage 3",
-      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/9b1ddf7730e8c859fe72fdfc0829001ba4539851"
-    },
-    "stats": {
-      "total": 23,
-      "additions": 23,
-      "deletions": 0,
-      "date": "2025-04-29"
-    },
-    "coverage": 87.5,
-    "test_count": 3,
-    "conclusion": "success"
-  },
-  {
-    "sha": "98c5d32b57bfdacebda6f27f745076a4a3662833",
-    "author": "Juanpi",
-    "commit": {
-      "date": "2025-04-29T15:14:39.000Z",
-      "message": "Fizzbuzz - prueba coverage 4",
-      "url": "https://github.com/JuanpiMontoya/prueba-commit-tracker-2/commit/98c5d32b57bfdacebda6f27f745076a4a3662833"
-    },
-    "stats": {
-      "total": 23,
-      "additions": 23,
-      "deletions": 0,
-      "date": "2025-04-29"
-    },
-    "coverage": 100,
-    "test_count": 4,
-    "conclusion": "success"
+    "coverage": 0,
+    "test_count": 7
   }
 ]
